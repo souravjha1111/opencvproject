@@ -1,0 +1,8 @@
+dnspython==2.2.1
+Flask==2.0.3
+Jinja2==3.0.3
+mediapipe==0.8.9.1
+numpy
+opencv-contrib-python==4.5.5.64
+opencv-python==4.5.5.62
+gunicorn==20.1.0
